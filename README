@@ -1,0 +1,23 @@
+TR
+Swagger-UI ile tarayıcan test edilebilen web servis projesi.
+
+S-1 Silindirin hacmi ve alanı.
+S-2 Kilometre olarak verilen değerin metre ve santimetre cinsinden değeri.
+S-3 Verilen n(dahil) değerine kadar olan; çift sayıların toplamını ve tek sayıların kareleri toplamı.
+S-4 Derece cinsinden verilen değerin, Radyan ve Grad cinsinden değerini virgülden sonra en az 5 basamağa kadar hesaplanması.
+S-5 Verilen n(dahil) sayısına kadar olan asal sayılar.
+S-6 Verilen i sayısı kadar ‘*’ karakterlerinden basamak oluşturup basamak.txt dosyasına yazılması. Servis, işlemin başarılı/başarısız olduğunu ve dosyanın adresini döner.
+S-7 Verilen 2 sayının OBEB ve OKEK değerlerinin hesaplanması.
+S-8 Verilen 2 kelimenin anagram olup olmadığının hesaplanması.
+
+EN
+Restful services in java that can be testable with swagger-ui on web browser. 
+
+Q-1 The volume and area of the cylinder. 
+Q-2 The value in meters and centimeters of the value given in kilometers. 
+Q-3 Up to the given n (inclusive) value; the sum of the even numbers and the sum of the squares of the odd numbers.
+Q-4 Calculation of the value in degrees, in Radians and Grads, to at least 5 decimal places. 
+Q-5 Prime numbers up to the given number n(inclusive). 
+Q-6 Creating digits from the '*' characters that given number of i and writing them to the basamak.txt file. The service returns the success/failure of the operation and the address of the file. 
+Q-7 Calculation of the "Least Common Multiple" and "Greatest Common Divisor" values of the 2 given numbers. 
+Q-8 Calculation of whether 2 given words are anagrams or not.
